@@ -1,4 +1,4 @@
-print('hii!!')
+
 
 #importing the libraries
 import pandas as pd
@@ -476,7 +476,7 @@ def main():
   # go to https://www.favicon.cc/ and download the ico file and store in assets directory 
   app.run_server() 
 
-  print("byee")
+  print("Thankyou for using the website")
   df = None
   app = None
 
