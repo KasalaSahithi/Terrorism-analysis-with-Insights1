@@ -272,7 +272,7 @@ def create_app_ui():
     ]
     )
 
-def update_app9_ui(Tabs, month_value, date_value,region_value,country_value,provstate_value,city_value,attack_value,mapyear_value,chartyear_value, chart_dp_value, search,
+def update_app_ui(Tabs, month_value, date_value,region_value,country_value,provstate_value,city_value,attack_value,mapyear_value,chartyear_value, chart_dp_value, search,
                    subtabs_2):
     fig = None
      
