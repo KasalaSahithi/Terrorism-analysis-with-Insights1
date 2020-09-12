@@ -355,7 +355,7 @@ def update_app_ui(Tabs, month_value, date_value,region_value,country_value,provs
           lon="longitude",
           color="attacktype1_txt",
           hover_name="city", 
-          hover_data=["region_txt", "country_txt", "provstate","city", "attacktype1_txt","nkill","iyear","imonth", "iday"],
+          hover_data=["region_txt", "country_txt", "provstate","city", "attacktype1_txt","iyear","imonth", "iday"],
           zoom=1
           )                       
         mapFigure.update_layout(mapbox_style="open-street-map",
